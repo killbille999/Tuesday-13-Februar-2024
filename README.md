@@ -6,7 +6,7 @@
 **Fettgedruckter Text**
 *Kursiver Text*
 [Link zu Google](https://www.google.com)
-![Bildbeschreibung](Screenshot von heute.png)
+![Bildbeschreibung](Bild.png)
 
 
 
